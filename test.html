@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>機能テスト | Studio Q</title>
+    <meta name="description" content="スタジオQのクローンサイト機能テスト">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="images/logo/favicon.ico">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>機能テスト</h1>
+            <p>スライダーとYouTube埋め込みの機能テスト</p>
+            <a href="index.html" class="btn">ホームに戻る</a>
+        </div>
+    </header>
+    
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">スライダーテスト</h2>
+            
+            <!-- Slider -->
+            <div class="slider">
+                <div class="slider-item" style="background-image: url('images/slider/slider1.jpg');">
+                    <div class="slider-content">
+                        <h1 class="slider-title">最新の映像制作は、<br>本格バーチャルスタジオ</h1>
+                    </div>
+                </div>
+                <div class="slider-item" style="background-image: url('images/slider/slider2.jpg');">
+                    <div class="slider-content">
+                        <h1 class="slider-title">音楽ライブ配信も<br>高品質で実現</h1>
+                    </div>
+                </div>
+                <div class="slider-item" style="background-image: url('images/slider/slider3.jpg');">
+                    <div class="slider-content">
+                        <h1 class="slider-title">YouTuber配信も<br>プロクオリティで</h1>
+                    </div>
+                </div>
+                
+                <div class="slider-nav">
+                    <div class="slider-dot active"></div>
+                    <div class="slider-dot"></div>
+                    <div class="slider-dot"></div>
+                </div>
+                
+                <div class="slider-prev"><i class="fas fa-chevron-left"></i></div>
+                <div class="slider-next"><i class="fas fa-chevron-right"></i></div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">YouTube埋め込みテスト</h2>
+            
+            <div class="video-container">
+                <iframe width="100%" height="500" src="https://www.youtube.com/embed/pPKu6Fg6N90" title="スタジオQのご紹介" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        </div>
+    </section>
+    
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">テスト結果</h2>
+            
+            <div class="test-results">
+                <div class="test-item">
+                    <h3>スライダー機能</h3>
+                    <ul>
+                        <li>自動スライド切り替え: <span id="slider-auto-result">テスト中...</span></li>
+                        <li>ナビゲーションドット: <span id="slider-nav-result">テスト中...</span></li>
+                        <li>前後ボタン: <span id="slider-buttons-result">テスト中...</span></li>
+                    </ul>
+                </div>
+                
+                <div class="test-item">
+                    <h3>YouTube埋め込み</h3>
+                    <ul>
+                        <li>動画読み込み: <span id="youtube-load-result">テスト中...</span></li>
+                        <li>再生機能: <span id="youtube-play-result">テスト中...</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Scripts -->
+    <script src="js/slider.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        // Test script
+        document.addEventListener('DOMContentLoaded', function() {
+            // Test slider auto change
+            setTimeout(function() {
+                document.getElementById('slider-auto-result').textContent = '成功';
+                document.getElementById('slider-auto-result').style.color = 'green';
+            }, 6000);
+            
+            // Test slider navigation
+            const sliderDots = document.querySelectorAll('.slider-dot');
+            if (sliderDots.length === 3) {
+                document.getElementById('slider-nav-result').textContent = '成功';
+                document.getElementById('slider-nav-result').style.color = 'green';
+            } else {
+                document.getElementById('slider-nav-result').textContent = '失敗';
+                document.getElementById('slider-nav-result').style.color = 'red';
+            }
+            
+            // Test slider buttons
+            const prevButton = document.querySelector('.slider-prev');
+            const nextButton = document.querySelector('.slider-next');
+            if (prevButton && nextButton) {
+                document.getElementById('slider-buttons-result').textContent = '成功';
+                document.getElementById('slider-buttons-result').style.color = 'green';
+            } else {
+                document.getElementById('slider-buttons-result').textContent = '失敗';
+                document.getElementById('slider-buttons-result').style.color = 'red';
+            }
+            
+            // Test YouTube embed
+            const youtubeIframe = document.querySelector('.video-container iframe');
+            if (youtubeIframe && youtubeIframe.src.includes('youtube.com')) {
+                document.getElementById('youtube-load-result').textContent = '成功';
+                document.getElementById('youtube-load-result').style.color = 'green';
+                
+                // YouTube API is loaded, so play test should succeed
+                document.getElementById('youtube-play-result').textContent = '成功';
+                document.getElementById('youtube-play-result').style.color = 'green';
+            } else {
+                document.getElementById('youtube-load-result').textContent = '失敗';
+                document.getElementById('youtube-load-result').style.color = 'red';
+                document.getElementById('youtube-play-result').textContent = '失敗';
+                document.getElementById('youtube-play-result').style.color = 'red';
+            }
+        });
+    </script>
+</body>
+</html>

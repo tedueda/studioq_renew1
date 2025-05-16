@@ -1,0 +1,100 @@
+# Studio Q Website Content
+
+## Header
+- Phone: 06-6978-8122
+- Email: info@studioq.co.jp
+- Social Media:
+  - Facebook: https://www.facebook.com/0804studioq
+  - Twitter: https://twitter.com/StudioQ0804
+  - Instagram: https://www.instagram.com/studioq0804
+  - RSS: https://studioq.co.jp/?feed=rss2
+
+## Navigation
+- About Us
+- Price List: https://studioq.co.jp/studio_price/
+- Contact: https://studioq.co.jp/inquiry/
+- バーチャル ウェディング: https://studioq.co.jp/wedding/
+- 音楽LIVE収録・配信: https://studioq.co.jp/music_video/
+- Youtube等の配信: https://studioq.co.jp/stream/
+- FAQ（AIチャット）: https://app.chatsimple.ai/iframe23/8b8a14dc-de0...
+
+## Slider Content
+- スタジオQのご紹介: https://youtu.be/pPKu6Fg6N90
+
+## Main Content Sections
+1. Studio Qはあらゆる撮影にご対応いたします。
+   - ４つのカメラで撮影した映像が同時に収録ができる「同録スタジオ」です。
+
+2. 最新映像
+   - バーチャル合成と黒バックによる演出照明の２パターンで音楽演奏の収録・配信が「同録」できます。
+   - Everything is You -山口 武(g) feat. 清水 興(b)/土井 淳(Key)/長尾琢登(dr)
+   - BECAUSE -山口 武(g) feat. 清水 興(b)/土井 淳(key)/長尾琢登(dr)
+
+3. こんな利用方法があります。（撮影例の一部）
+   - アイドルの夢、実現プロジェクト
+   - バーチャルウェディング（DEMO)
+   - 音楽LIVE撮影・配信
+   - Youtuber Live配信
+   - 企業PR動画
+   - オンライン講座の制作
+
+4. Studio Qはこんなスタジオです
+
+5. 特長１ バーチャル撮影と音楽LIVEが可能なハイブリットスタジオ
+   - 大阪市内ではあまり見当たらない約5mの高い天井と22坪の広い空間を活かした照明設備の充実により、グリーンバックの撮影もより鮮やかで美しい映像撮影がおこなえます。
+   - 防音設備も完備しており、反響音が少なく、音が逃げにくい構造となっております。これにより音楽LIVEの収録・配信も可能となりました。
+   - 音楽ライブ撮影についてはこちら: https://studioq.co.jp/music_video/
+
+6. 特長２ 撮影シーンに応じて様々な背景へ変更
+   - 背景を白ホリ風、黒幕、黒幕照明、グーンバックと撮影の用途に合わせて、様々なは背景をご利用いただけます。
+   - また、それそれに応じた照明設備もご用意しております。
+
+7. 特長３ 映像・音響・照明の全ての機材を常設完備
+   - ４台のカメラをリモート操作できるほか、クロマキーヤー４台を各カメラに搭載し、それぞれのカメラでリアルタイム合成が可能です。
+   - また、カメラ８台まで接続可能なスイッチャー、収録機、WEB配信設備もそれぞれ各２台常設し、冗長性も兼ね備えております。
+   - 他、音楽LIVE用の24チャンネル・ミキサー、照明設備のコントロールもオペレーションルームから操作でき、これら全てをご利用頂けます。
+   - スタジオ機材設備についてはこちら: https://studioq.co.jp/equipment_list/
+
+8. 特長4 ステンドグラスの開放感あふれるラウンジとメイク室
+   - 施設内設備としては、ステンドグラスからの光がとても開放的なラウンジを自由にご利用いただけます。
+   - また、メイク室と和室の控室もご用意しております。
+   - スタジオのレイアウトについてはこちら: https://studioq.co.jp/introduction/
+
+## News Section
+1. Sonicview24の魅力! 次世代デジタルミキサーの新基準
+   - Date: 9月 22, 2024
+   - URL: https://studioq.co.jp/sonicview24%e3%81%ae%e9%a...
+
+2. Studio Qは同録ができるスタジオです。
+   - Date: 3月 25, 2024
+   - URL: https://studioq.co.jp/03251-2/
+
+3. スタジオQクリエイター総合塾 2024年4月開講！
+   - Date: 3月 25, 2024
+   - URL: https://studioq.co.jp/240301/
+
+4. スタジオQが8月4日オープンいたしました。
+   - Date: 8月 4, 2023
+   - URL: https://studioq.co.jp/open/
+
+## Access Information
+- Studio Q
+- 〒556-0003大阪府大阪市浪速区恵美須西３−２−４ ２F
+- 最寄り駅大阪メトロ（地下鉄）御堂筋・堺筋線 動物園前駅6番出口（徒歩4分）
+- JR環状線新今宮駅 通天閣口（徒歩4分）
+- TEL 06-6978-8122
+- FAX 06-6978-8123
+
+## Contact
+- お問い合わせフォーム: https://studioq.co.jp/inquiry/
+
+## Footer
+- Address: 大阪市浪速区恵美須西3-2-4 2階
+- TEL: 06-6978-8122
+- FAX: 06-6978-8123
+- Social Media:
+  - Facebook: https://www.facebook.com/0804studioq
+  - Twitter: https://twitter.com/StudioQ0804
+  - Instagram: https://www.instagram.com/studioq0804
+  - YouTube: https://www.youtube.com/channel/UCxnEj084atnqvl...
+- Copyright: @studioQ2023　　事業再構築

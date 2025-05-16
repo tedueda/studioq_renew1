@@ -1,0 +1,38 @@
+# Studio Q Website Assets
+
+## Logo
+- Logo: https://studioq.co.jp/wp-content/uploads/2023/0...
+
+## Slider Images
+- Slider Image 1: //studioq.co.jp/wp-content/uploads/slider/cache...
+- Slider Image 2: //studioq.co.jp/wp-content/uploads/slider/cache...
+- Slider Image 3: //studioq.co.jp/wp-content/uploads/slider/cache...
+- Slider Image 4: //studioq.co.jp/wp-content/uploads/slider/cache...
+- Slider Image 5: //studioq.co.jp/wp-content/uploads/slider/cache...
+
+## Content Images
+- Feature 1 Image: https://studioq.co.jp/wp-content/uploads/2023/0... (top3-1)
+- Feature 2 Image: https://studioq.co.jp/wp-content/uploads/2023/0... (intro4-1)
+- Feature 3 Image: https://studioq.co.jp/wp-content/uploads/2023/0... (intro2-2)
+- Feature 4 Image: https://studioq.co.jp/wp-content/uploads/2023/0... (intro3-2)
+
+## Service Images
+- Service 1 Image: アイドルの夢、実現プロジェクト
+- Service 2 Image: バーチャルウェディング（DEMO)
+- Service 3 Image: 音楽LIVE撮影・配信
+- Service 4 Image: Youtuber Live配信
+- Service 5 Image: 企業PR動画
+- Service 6 Image: オンライン講座の制作
+
+## YouTube Videos
+- スタジオQのご紹介: https://youtu.be/pPKu6Fg6N90
+
+## Icons
+- Social Media Icons (Facebook, Twitter, Instagram, RSS)
+- Phone Icon
+- Email Icon
+- Chat Bot Icon
+
+## Other Assets
+- Google Maps Embed
+- Chat Bot Widget

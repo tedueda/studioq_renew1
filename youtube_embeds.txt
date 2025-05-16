@@ -1,0 +1,18 @@
+# YouTube Embeds on Studio Q Website
+
+## Main Introduction Video
+- URL: https://youtu.be/pPKu6Fg6N90
+- Title: スタジオQのご紹介
+- Embed Code:
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pPKu6Fg6N90" title="スタジオQのご紹介" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+
+## Music Videos
+1. Everything is You -山口 武(g) feat. 清水 興(b)/土井 淳(Key)/長尾琢登(dr)
+2. BECAUSE -山口 武(g) feat. 清水 興(b)/土井 淳(key)/長尾琢登(dr)
+
+## Service Examples
+1. Youtuber Live配信
+2. 企業PR動画
+3. オンライン講座の制作
